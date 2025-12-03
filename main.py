@@ -1,5 +1,5 @@
 def main():
-    print("Hello from rag-sport-articles!")
+    print("INformation Retrieval by Rayhan Firdaus Ardian!")
 
 
 if __name__ == "__main__":
